@@ -1,8 +1,8 @@
-# 🛸 Alien Invasion
+#  Alien Invasion
 
 A classic arcade-style game where the player controls a spaceship that must shoot down waves of alien invaders before they reach Earth. Built using Python and Pygame.
 
-## 🎮 Features
+##  Features
 
 - Player-controlled spaceship that can move left and right
 - Alien fleet that moves and drops down the screen
@@ -11,8 +11,9 @@ A classic arcade-style game where the player controls a spaceship that must shoo
 - Game speed increases as levels progress
 - Start, pause, and game-over screen
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Language:** Python
 - **Library:** [Pygame](https://www.pygame.org/)
 
+## A Work in Progress!
