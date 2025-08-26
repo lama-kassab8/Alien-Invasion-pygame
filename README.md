@@ -16,5 +16,12 @@ A classic arcade-style game where the player controls a spaceship that must shoo
 - **Language:** Python
 - **Library:** [Pygame](https://www.pygame.org/)
 
+## Files:
+- alien_invasion.py
+- settings.py
+- ship.py
+- alien.py
+- bullet.py
+
 ## A Work in Progress!
 ### Add-ons will be made!
