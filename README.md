@@ -22,6 +22,7 @@ A classic arcade-style game where the player controls a spaceship that must shoo
 - ship.py
 - alien.py
 - bullet.py
+- game_stats.py
 
 ## A Work in Progress!
 ### Add-ons will be made!
