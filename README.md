@@ -10,6 +10,7 @@ A classic arcade-style game where the player controls a spaceship that must shoo
 - Scorekeeping and high score tracking
 - Game speed increases as levels progress
 - Start, pause, and game-over screen
+- Power up rewards
 
 ##  Tech Stack
 
