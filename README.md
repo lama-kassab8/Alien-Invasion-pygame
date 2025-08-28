@@ -12,6 +12,8 @@ A classic arcade-style game where the player controls a spaceship that must shoo
 - Start, pause, and game-over screen
 - Power up rewards
 - Temporary impairment punishments
+- Positive pickups
+- Negative pickups
 
 ##  Tech Stack
 
