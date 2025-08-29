@@ -71,7 +71,8 @@ class AlienInvasion:
     def check_play_button(self, mouse_pos):
         """Start a new game when the player clicks Play"""
         button_clicked = self.play_button.rect.collidepoint(mouse_pos)# take notice of the cursor when it clicks in the button's rect and store this incident to button_clicked
-        # if the button is clicked while the game is active (the not game_active is because the default value of the game_active is False(inactive) and here we want to check that it's not True (active))
+        # if the button is clicked while the game is active (the not game_active is because the default value of the game_active is False(inactive) 
+        # and here we want to check that it's not True (active))
         if button_clicked and not self.game_active: 
             self.stats.reset_stats() # reset the game statistics
             self.game_active= True
