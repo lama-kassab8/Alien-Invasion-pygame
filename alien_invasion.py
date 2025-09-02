@@ -82,6 +82,8 @@ class AlienInvasion:
             # create a new fleet and center the ship
             self.create_fleet()
             self.ship.center_ship()
+            # hide the mouse cursor
+            pygame.mouse.set_visible(False)
 
     def toggle_fullscreen(self):
         if not self.fullscreen:
