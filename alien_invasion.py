@@ -228,6 +228,7 @@ class AlienInvasion:
             sleep(0.5)
         else: # once the player runs out of lives, end the game
             self.game_active= False
+            pygame.mouse.set_visible(True)
 
     
     def check_aliens_bottom(self):
